@@ -10,14 +10,13 @@ I have a keen interest in learning new technologies and languages. Currently, I 
 
 ## 💼 Professional Experience
 - **Adviseu Technology** - Backend Developer (Node.js)
-- [Add other relevant professional experiences here]
 
 ## 🛠️ Skills
-- Programming Languages: Node.js, JavaScript, Python, Ruby
+- Programming Languages: Node.js, JavaScript, Python, Ruby, Java
 - Backend Development: Express.js, RESTful APIs, Database Design
 - Version Control: Git
-- Testing: Jest, Mocha
-- Deployment: Docker, AWS, Heroku
+- Testing: Vitest, Jest, Supertest
+- Deployment: Docker, Kubernetes, AWS, Heroku
 
 ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/elias-oliveira-9aa4b51b1/)
